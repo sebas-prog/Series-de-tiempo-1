@@ -9,8 +9,7 @@ packages <- c("tidyverse","XML","httr")
 ipak(packages)
 
 
-
-
+# Esta funcion permite realizar el bcrp 
 
 extraccion<- function(codigo=NULL,start=NULL,end=NULL){
   vector<- vector()
