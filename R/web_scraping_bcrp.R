@@ -7,7 +7,7 @@ ipak <- function(pkg){
 
 packages <- c("tidyverse","XML","httr")
 ipak(packages)
-
+print("hola mundo")
 
 ## Esta funcion permite realizar el bcrp 
 
