@@ -13,7 +13,7 @@ ipak <- function(pkg){
 packages <- c("forecast","TSstudio","tseries","highcharter","TTR","readxl","imputeTS")
 ipak(packages)
 
-DATOS_QUINUA <- read_excel("C:/Users/atita/Downloads/DATOS QUINUA.xlsx")
+DATOS_QUINUA <- read.csv("https://raw.githubusercontent.com/sebas-prog/Series-de-tiempo-1/main/Datos/Data_humberto.csv")
 View(DATOS_QUINUA)
 
 # Ejemplo de valores Vacios o NA
