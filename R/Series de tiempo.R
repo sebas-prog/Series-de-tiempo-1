@@ -109,3 +109,5 @@ autoplot(etsmodmult)
 prediction <- forecast(etsmodmult,h=48)
 
 autoplot(prediction)
+
+
