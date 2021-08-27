@@ -29,3 +29,4 @@ lines(modelo$fitted,col="red")
 
 predict <- forecast(modelo,12)
 autoplot(predict)
+
