@@ -28,5 +28,3 @@ sum(kiwichua_tsi<0)
 
 kiwichua_tsi
 
-
-
